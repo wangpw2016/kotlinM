@@ -8,7 +8,7 @@ import com.hao.m.greedao.AccountDataDao
 import com.hao.m.greedao.DaoMaster
 
 /**
- * Created by HaoBoy on 2018/7/18.
+ * Created by wangpw on 2018/7/18.
  *
  * 数据库操作 --- 用户账户登录信息
  */

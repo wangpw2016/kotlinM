@@ -14,7 +14,7 @@ import com.hao.m.R
 import com.hao.m.utils.TLog
 
 /**
- * Created by HaoBoy on 2018/6/15.
+ * Created by wangpw on 2018/6/15.
  */
 object LoadingDialog {
 

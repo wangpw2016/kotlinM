@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import com.bumptech.glide.request.target.BitmapImageViewTarget;
 
 /**
- * @author : HaoBoy
+ * @author : wangpw
  * @date : 2018/9/27
  * @description :圆角头像
  **/

@@ -11,7 +11,7 @@ import android.view.View
 import com.hao.m.utils.UIUtils
 
 /**
- * Created by HaoBoy on 2018/6/26.
+ * Created by wangpw on 2018/6/26.
  */
 class GridDividerItemDecoration(private val mDividerWidth: Int,  color: Int) : RecyclerView.ItemDecoration() {
     private val mPaint: Paint?

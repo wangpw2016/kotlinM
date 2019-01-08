@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import com.hao.m.utils.TLog
 
 /**
- * Created by HaoBoy on 2017/12/18.
+ * Created by wangpw on 2017/12/18.
  */
 class FullyLinearLayoutManager : LinearLayoutManager {
 

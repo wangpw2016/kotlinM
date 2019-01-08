@@ -6,7 +6,7 @@ import org.jetbrains.anko.info
 import kotlin.math.log
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 object TLog : AnkoLogger {
 

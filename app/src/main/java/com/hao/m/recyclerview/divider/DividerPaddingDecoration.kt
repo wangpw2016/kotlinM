@@ -10,7 +10,7 @@ import android.view.View
 import com.hao.m.utils.UIUtils
 
 /**
- * Created by HaoBoy on 2018/6/26.
+ * Created by wangpw on 2018/6/26.
  *
  * 绘制带padding的分割线
  */

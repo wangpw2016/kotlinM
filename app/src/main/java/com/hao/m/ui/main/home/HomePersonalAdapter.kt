@@ -9,7 +9,7 @@ import java.util.ArrayList
 
 
 /**
- * Created by HaoBoy on 2018/8/15.
+ * Created by wangpw on 2018/8/15.
  */
 
 class HomePersonalAdapter(activity:Activity,data: ArrayList<String>?) : BaseQuickAdapter<String, BaseViewHolder>(R.layout.item_user_show,data) {

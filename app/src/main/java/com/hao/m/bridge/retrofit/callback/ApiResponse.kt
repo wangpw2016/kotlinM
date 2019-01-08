@@ -20,7 +20,7 @@ import java.net.SocketTimeoutException
 import java.net.UnknownHostException
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 class ApiResponse<T>(private val context: Context,
                   private val msg: String,

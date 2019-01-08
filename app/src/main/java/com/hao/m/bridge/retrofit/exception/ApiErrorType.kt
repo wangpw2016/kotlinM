@@ -4,7 +4,7 @@ import android.content.Context
 import com.hao.m.R
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 enum class ApiErrorType(val code: Int, private val messageId: Int) {
 

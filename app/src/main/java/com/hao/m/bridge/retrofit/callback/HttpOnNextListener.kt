@@ -6,7 +6,7 @@ import com.hao.m.utils.TLog
 import com.hao.m.utils.ToastUtil
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 abstract class HttpOnNextListener<T> {
 

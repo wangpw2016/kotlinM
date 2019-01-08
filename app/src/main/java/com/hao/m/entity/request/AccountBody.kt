@@ -1,7 +1,7 @@
 package com.hao.m.entity.request
 
 /**
-*@author : HaoBoy
+*@author : wangpw
 *@date : 2018/8/17
 *@description :
 **/

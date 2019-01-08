@@ -3,7 +3,7 @@ package com.hao.m.bridge.rx.timer
 import android.util.Log
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 abstract class TimerListener {
 

@@ -7,7 +7,7 @@ import android.content.res.Configuration
 import android.util.DisplayMetrics
 
 /**
- * Created by HaoBoy on 2018/8/29.
+ * Created by wangpw on 2018/8/29.
  */
 object Density {
     private var appDensity: Float = 0.toFloat()

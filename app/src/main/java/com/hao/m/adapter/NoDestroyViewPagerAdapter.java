@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
-* @Auther: hao
+* @Auther: wpw
 * @Date 2017/10/27 15:32
 * @Description  ViewPager适配器
 **/

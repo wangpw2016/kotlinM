@@ -1,7 +1,7 @@
 package com.hao.m.bridge.retrofit
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 class ApiConstants private constructor() {
 

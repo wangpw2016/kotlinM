@@ -11,7 +11,7 @@ import com.hao.m.utils.KeyBoardUtils
 import com.trello.rxlifecycle2.components.support.RxAppCompatActivity
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 abstract class BaseActivity : RxAppCompatActivity() {
 

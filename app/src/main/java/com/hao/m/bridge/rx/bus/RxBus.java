@@ -7,7 +7,7 @@ import io.reactivex.processors.PublishProcessor;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 public class RxBus {
 

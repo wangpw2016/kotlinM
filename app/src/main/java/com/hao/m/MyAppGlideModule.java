@@ -4,7 +4,7 @@ import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;
 
 /**
- * @author : HaoBoy
+ * @author : wangpw
  * @date : 2018/9/27
  * @description :Glide4.0使用 必须要在程序包名下
  **/

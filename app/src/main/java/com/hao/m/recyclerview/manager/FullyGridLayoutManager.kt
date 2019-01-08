@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 
 /**
- * Created by HaoBoy on 2017/12/18.
+ * Created by wangpw on 2017/12/18.
  */
 
 class FullyGridLayoutManager : GridLayoutManager {

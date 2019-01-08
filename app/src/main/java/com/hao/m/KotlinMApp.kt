@@ -7,7 +7,7 @@ import android.support.multidex.MultiDexApplication
 import com.hao.m.utils.Density
 
 /**
- * Created by HaoBoy on 2018/6/12.
+ * Created by wangpw on 2018/6/12.
  */
 class KotlinMApp : MultiDexApplication() {
 

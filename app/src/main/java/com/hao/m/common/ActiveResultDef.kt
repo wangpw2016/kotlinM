@@ -1,7 +1,7 @@
 package com.hao.m.common
 
 /**
- *@author : HaoBoy
+ *@author : wangpw
  *@date : 2018/9/28
  *@description : 界面剑信息回调key值
  **/

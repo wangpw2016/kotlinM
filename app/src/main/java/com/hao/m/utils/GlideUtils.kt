@@ -8,7 +8,7 @@ import com.hao.m.widgets.CircularBitmapImageViewTarget
 
 
 /**
-*@author : HaoBoy
+*@author : wangpw
 *@date : 2018/9/27
 *@description :glide图片加载，单例
 **/

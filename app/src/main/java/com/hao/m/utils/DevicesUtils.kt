@@ -9,7 +9,7 @@ import android.telephony.TelephonyManager
 import android.text.TextUtils
 
 /**
- * Created by HaoBoy on 2018/7/13.
+ * Created by wangpw on 2018/7/13.
  */
 
 object DevicesUtils {

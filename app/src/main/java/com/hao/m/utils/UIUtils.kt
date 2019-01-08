@@ -11,7 +11,7 @@ import android.view.WindowManager
 import com.hao.m.KotlinMApp
 
 /**
- * Created by Haoboy on 2018/6/19.
+ * Created by wangpw on 2018/6/19.
  */
 object UIUtils {
 

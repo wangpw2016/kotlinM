@@ -8,7 +8,7 @@ import org.jetbrains.anko.toast
 
 
 /**
- * Created by HaoBoy on 2018/6/16.
+ * Created by wangpw on 2018/6/16.
  */
 object ToastUtil : AnkoLogger {
 

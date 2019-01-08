@@ -6,7 +6,7 @@ import com.hao.m.mvp.BasePresenter
 import com.hao.m.mvp.BaseView
 
 /**
-*@author : HaoBoy
+*@author : wangpw
 **/
 interface LoginContract {
 

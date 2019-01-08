@@ -8,7 +8,7 @@ import io.reactivex.disposables.CompositeDisposable
 
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 class RxTimer {
 

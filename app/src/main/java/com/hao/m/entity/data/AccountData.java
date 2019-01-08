@@ -6,7 +6,7 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Keep;
 
 /**
- * Created by HaoBoy on 2018/7/18.
+ * Created by wangpw on 2018/7/18.
  */
 
 @Entity

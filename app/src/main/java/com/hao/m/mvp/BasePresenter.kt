@@ -1,7 +1,7 @@
 package com.hao.m.mvp
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 interface BasePresenter {
 

@@ -4,7 +4,7 @@ import com.chad.library.adapter.base.BaseQuickAdapter
 import com.chad.library.adapter.base.BaseViewHolder
 import com.hao.m.R
 /**
-*@author : HaoBoy
+*@author : wangpw
 *@date : 2018/9/21
 *@description : 发现页adapter
 **/

@@ -7,7 +7,7 @@ import io.reactivex.Observable
 import retrofit2.http.*
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 interface AccountService {
 

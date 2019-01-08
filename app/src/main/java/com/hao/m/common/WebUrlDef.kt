@@ -2,7 +2,7 @@ package com.hao.m.common
 
 
 /**
- * Created by HaoBoy on 2018/8/27.
+ * Created by wangpw on 2018/8/27.
  *
  * H5链接
  */

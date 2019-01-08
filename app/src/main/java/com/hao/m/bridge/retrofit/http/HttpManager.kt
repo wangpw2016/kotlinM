@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit
 
 
 /**
- * Created by HaoBoy
+ * Created by wangpw
  */
 class HttpManager private constructor() {
 
